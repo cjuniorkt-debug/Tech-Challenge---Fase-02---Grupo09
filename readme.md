@@ -1,5 +1,7 @@
 # Tech Challenge: Classificação da Qualidade de Vinhos
 
+
+
 ## 1. Sobre o Projeto
 
 Este projeto tem como objetivo aplicar técnicas de Machine Learning para classificar vinhos de acordo com sua qualidade utilizando características físico-químicas.
@@ -9,6 +11,8 @@ O estudo contempla desde a análise exploratória dos dados até a comparação 
 ***
 
 ## 2. Estrutura do Repositório
+
+├─ apresentacao
 
 ├── data
 
