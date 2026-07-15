@@ -11,9 +11,13 @@ O estudo contempla desde a análise exploratória dos dados até a comparação 
 ## 2. Estrutura do Repositório
 
 ├── data
+
 ├── notebooks
+
 ├── results
+
 ├── requirements.md
+
 └── README.md
 
 **WineQT.csv**  
@@ -52,7 +56,11 @@ Notebook contendo todas as etapas do desenvolvimento.
 ## 5. Autor
 
 Celso Koiti Tanaka Junior - RM373390
+
 Fabrício Henrique Cardoso Alves - RM373892
+
 Jéssica da Silva Heringer Fontenele - RM366487
+
 Matheus Palmeira da Costa - RM371493
+
 Stefanie Mattoso Pereira Bueno - RM371695
